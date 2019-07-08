@@ -44,7 +44,7 @@
 
 每一个UI组件的关键用法，都会有详细的实例，拿 [Button](https://element.eleme.cn/#/zh-CN/component/button) 举例
 
-### 做 & 模仿最佳实践
+## 做 & 模仿最佳实践
 以及这些开源的项目只是模板，
 
 [vue-element-admin](<https://github.com/PanJiaChen/vue-element-admin/blob/master/README.zh-CN.md>)
